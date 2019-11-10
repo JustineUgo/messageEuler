@@ -34,7 +34,7 @@ To install the python dependencies used in this project
 ```
 easy_install twilio
 ```
-This command installs twilio python package properly in your environment which is used in the project
+This command ensures you have the lastest version of twilio, and installs it if not already installed properply.
 
 
 ### More
