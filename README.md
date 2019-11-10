@@ -54,4 +54,4 @@ The time taken to recieve a message, varies!
 
 ## Future
 Hoping to make it a desktop app, which pops up on starting the computer everyday, so we can code everyday. :computer::computer::computer:
-
+Would also make a version of it, that allows users login, connect them for global competitions. (Authentication, Databases and connectivity)
