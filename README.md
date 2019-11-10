@@ -52,3 +52,6 @@ Give valid inputs to the questions asked and you should recieve a message from y
 ### Note
 The time taken to recieve a message, varies!
 
+## Future
+Hoping to make it a desktop app, which pops up on starting the computer everyday, so we can code everyday. :computer::computer::computer:
+
