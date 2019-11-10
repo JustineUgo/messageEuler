@@ -19,7 +19,12 @@ Navigate into messagEuler folder and run the following commands
 ```
 pip install pipenv
 ```
-This is to create a virtual environment for the project
+This is to create a virtual environment for the project.
+
+```
+pipenv shell
+```
+To activate the virtual environment
 
 ```
 pipenv install -r requirements.txt
